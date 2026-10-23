@@ -1,0 +1,11 @@
+.DS_Store
+.build/
+build/
+__pycache__/
+*.py[cod]
+*.xcuserstate
+*.log
+.env
+.env.*
+*.pem
+*.key
